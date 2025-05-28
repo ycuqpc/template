@@ -1,13 +1,9 @@
-# https://chirimenmonster.github.io/2021/06/29/jekyll-remote-theme.html
+# https://github.com/jeffreytse/jekyll-theme-yat/?tab=readme-ov-file#remote-theme-method-with-jekyll-remote-theme-plugin
+
+remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
 plugins:
-  - jekyll-theme-yat
-  - jekyll-sass-converter
-  - jekyll-remote-theme
+- jekyll-remote-theme
 
-# https://github.com/jeffreytse/jekyll-theme-yat/?tab=readme-ov-file#remote-theme-method-with-github-pages
-remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
-
-# https://github.com/jeffreytse/jekyll-theme-yat/blob/master/_config.yml
 title: This is draft!
 email: 
 author: Quantum Physical Chemistry Laboratory, Yokohama City University
