@@ -17,7 +17,7 @@ defaults:
   home:
     heading: "International Workshop on Theoretical and Computational Chemistry 2024"
     subheading: "January XXth, 2024 in Kanazawa-Hakkei Campus of Yokohama City University"
-    banner: "./home.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/photodata/index.html
+    banner: "./home1.jpg" # https://www.yokohama-cu.ac.jp/brandguide/materialdata/
 
 banner:
   # video: null             # Video banner source

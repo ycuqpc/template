@@ -3,13 +3,27 @@ table td {
 }
 
 .page-banner .page-banner-img {
-	filter: contrast(0.82) brightness(1.0);
+	/* home1.jpg */
+	filter: contrast(0.92) brightness(1.0);
+	/* home2.jpg */
+	/* filter: contrast(0.92) brightness(1.0); */
+	/* home3.jpg */
+	/* ; */
+	/* home4.jpg */
+	/* filter: contrast(0.95) brightness(0.95); */
 }
 
 html[data-scroll-status='top'] header.site-header-transparent {
-	text-shadow: 1px 1px 10px #333333AA;
+	text-shadow: 1px 1px 5px #333333AA;
 }
 
 .page-banner .page-banner-inner {
-    text-shadow: 1px 1px 10px #333333AA;
+	/* home1.jpg, home2.jpg */
+	text-shadow: 1px 1px 15px #333333AA;
+	/* home3.jpg, home4.jpg */
+	/* text-shadow: 1px 1px 5px #333333AA; */
+}
+
+.page-banner .page-banner-inner>*:first-child>:nth-child(1) {
+    line-height: 1.2em;
 }
